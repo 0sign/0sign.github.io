@@ -154,6 +154,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/asenov">
+            <img src="https://avatars.githubusercontent.com/u/280619?v=4" width="80;" alt="asenov"/>
+            <br />
+            <sub><b>Мирослав Асенов</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/marekful">
             <img src="https://avatars.githubusercontent.com/u/10281476?v=4" width="80;" alt="marekful"/>
             <br />
@@ -173,15 +180,15 @@
             <br />
             <sub><b>Rubjo</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/turnrye">
             <img src="https://avatars.githubusercontent.com/u/701035?v=4" width="80;" alt="turnrye"/>
             <br />
             <sub><b>Ryan Turner</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/royshreyaa">
             <img src="https://avatars.githubusercontent.com/u/139828242?v=4" width="80;" alt="royshreyaa"/>
@@ -201,13 +208,6 @@
             <img src="https://avatars.githubusercontent.com/u/16572811?v=4" width="80;" alt="XertDev"/>
             <br />
             <sub><b>Xert</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dr460nf1r3">
-            <img src="https://avatars.githubusercontent.com/u/12834713?v=4" width="80;" alt="dr460nf1r3"/>
-            <br />
-            <sub><b>Nico</b></sub>
         </a>
     </td>
     <td align="center">
